@@ -1,2 +1,1 @@
-# recipes
-Collection of recipes
+yum
